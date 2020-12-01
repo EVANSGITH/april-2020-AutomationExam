@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15178" started-at="2020-11-19T18:58:50Z" finished-at="2020-11-19T18:59:05Z">
+  <suite name="Default suite" duration-ms="15124" started-at="2020-11-19T19:22:48Z" finished-at="2020-11-19T19:23:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15178" started-at="2020-11-19T18:58:50Z" finished-at="2020-11-19T18:59:05Z">
+    <test name="Default test" duration-ms="15124" started-at="2020-11-19T19:22:48Z" finished-at="2020-11-19T19:23:03Z">
       <class name="test.AddDuplicateCategoryValidationTest">
-        <test-method status="PASS" signature="UserShouldNotBeAbleToAddDuplicateCategory()[pri:0, instance:test.AddDuplicateCategoryValidationTest@ca263c2]" name="UserShouldNotBeAbleToAddDuplicateCategory" duration-ms="15143" started-at="2020-11-19T18:58:50Z" finished-at="2020-11-19T18:59:05Z">
+        <test-method status="PASS" signature="UserShouldNotBeAbleToAddDuplicateCategory()[pri:0, instance:test.AddDuplicateCategoryValidationTest@ca263c2]" name="UserShouldNotBeAbleToAddDuplicateCategory" duration-ms="15103" started-at="2020-11-19T19:22:48Z" finished-at="2020-11-19T19:23:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserShouldNotBeAbleToAddDuplicateCategory -->
